@@ -6,9 +6,6 @@ Dataset1 - a matrix of polymorphic single nucleotide polymorphisms (SNPs), with 
 
 Dataset2 -  phased sequence file for each loci that was implemented only in the genetic diversity and differentiation analyzes based in the “.alleles format”
 
-a matrix of polymorphic single nucleotide polymorphisms (SNPs), with a single SNP per locus to prevent the presence of closely linked SNPs based in the “.usnps.geno”
-
-
 SAMPLING
 
 28 individuals of the genus Pyrrhulina, of five different species (P. australis, P. brevis, P. obermulleri, P. marilynae and P. semifasciata), from 4 different localities distributed in the Amazon basin and in the Paraná basin.
