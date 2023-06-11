@@ -1,6 +1,6 @@
 # Dataset-1-and-2---Manuscript-Pyrrhulina
 
-This repository contains two datasets
+This repository contains two datasets used to perform the analysis in https://www.frontiersin.org/articles/10.3389/fgene.2022.869073/full
 
 Dataset1 - a matrix of polymorphic single nucleotide polymorphisms (SNPs), with a single SNP per locus to prevent the presence of closely linked SNPs based in the “.usnps.geno”
 
